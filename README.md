@@ -1,2 +1,1 @@
-#bang
-#bang bang
+#deleted everything from comp user
