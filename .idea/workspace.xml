@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d6f889a-a074-4300-9c79-30aa51dcff5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d6f889a-a074-4300-9c79-30aa51dcff5c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,6 +21,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/fun.txt" />
+        <option value="$PROJECT_DIR$/one.txt" />
       </list>
     </option>
   </component>
@@ -83,12 +82,12 @@
       <updated>1561754110134</updated>
       <workItem from="1561754111223" duration="555000" />
       <workItem from="1561919462067" duration="533000" />
-      <workItem from="1561920105223" duration="1391000" />
+      <workItem from="1561920105223" duration="1913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4029000" />
+    <option name="totallyTimeSpent" value="4551000" />
   </component>
   <component name="TodoView" selected-index="1" />
   <component name="ToolWindowManager">
@@ -167,7 +166,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/one.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
